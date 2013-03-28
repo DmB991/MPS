@@ -1,1 +1,2 @@
 The new file, which contain nothing.
+New big line.
